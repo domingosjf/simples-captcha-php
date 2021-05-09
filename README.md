@@ -16,7 +16,7 @@ ENVIO -- 08/05/2021:
 
 3. Criar Banco de Dados com Nome == captcha
 
-4. Carregue  o captcha.sql usando PHPMyAdmin
+4. Carregue (importar) o captcha.sql usando PHPMyAdmin
 
 5. A alteração inclui / config.php a conexão MySQL e o URL do site (por exemplo, http://example.org/faucet)
 
