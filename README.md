@@ -18,7 +18,7 @@ ENVIO -- 08/05/2021:
 
 4. Carregue (importar) o captcha.sql usando PHPMyAdmin
 
-5. A alteração inclui / config.php a conexão MySQL e o URL do site (por exemplo, http://example.org/faucet)
+5. A alteração inclui / config.php a conexão MySQL.
 
 6. Abrir a Url local, cadastrar um usuario para testar.
 
